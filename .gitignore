@@ -28,5 +28,8 @@ migrate_working_dir/
 .dart_tool/
 .packages
 build/
-example/ios/Flutter/ephemeral/flutter_lldb_helper.py
-example/ios/Flutter/ephemeral/flutter_lldbinit
+example/android/app/build/
+example/android/.kotlin/
+example/android/app/.cxx/
+example/ios/Flutter/ephemeral/
+
